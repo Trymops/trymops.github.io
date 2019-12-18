@@ -3,5 +3,5 @@ h1 {
 }
 
 .markdown-body {
-   display: none;
+   display: none !important;
 }
