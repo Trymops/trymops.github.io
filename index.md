@@ -1,5 +1,6 @@
 <html>
   <head>
+    <title>Trymops</title>
     <link rel="stylesheet" type="text/css" href="style.css">
   </head>
   <body>
